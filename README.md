@@ -1,4 +1,4 @@
-# Module-1-Challenge
+# Kickstarter
 Repository for the module 1 challenge
 ## Overview of Project
 In this project, I analyzed the likelihood that a project would succeed, fail, or cancel based on the category that the project falls under, more specifically, theater, and based on the amount required to execute the project (goal amount).
